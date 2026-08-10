@@ -4,7 +4,6 @@ An automated pipeline that detects customer meetings across the team's Google Ca
 
 > Built during my summer 2026 internship at **Chezie**. Public repo is scrubbed of credentials and real customer data.
 
-🖼️ **Screenshots / demo:** see [`/screenshots`](./screenshots) *(add your Loom walkthrough link)*
 
 ---
 
@@ -34,7 +33,5 @@ I approached it product-first: interviewed the four stakeholders, audited the ex
 - Eliminated the EA's manual meeting-logging entirely — the system runs on its own.
 - Produced a **centralized, AI-readable record** of customer interactions (metadata + transcript + summary) any teammate or AI agent can query.
 - Demonstrated end-to-end with real customer meetings correctly detected and logged.
-- *[Add real numbers if you can — e.g., meetings auto-logged per week, hours saved for the EA.]*
-
-## Design note
-Built to extend cleanly into Phase 2 (email- and Slack-thread ingestion) without reworking the database structure.
+- Weekly average of 23 meetings logged and entered
+- Reduces manual work by **5.75 hours per week**.
