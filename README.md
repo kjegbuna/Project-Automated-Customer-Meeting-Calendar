@@ -15,7 +15,7 @@ A scheduled automation that:
 4. **Captures artifacts after the meeting** — pulls the recording URL, transcript, and auto-summary from the team's note-taking tools and writes them into the page (summary on top, transcript in the body).
 
 ## Why it was needed (the problem)
-Customer meeting records were created **by hand** by the EA, who monitored four separate calendars (Toby, Dumebi, Kate, Jesse) and manually built a Notion page per meeting. It was time-consuming, easy to miss meetings, dependent entirely on one person's bandwidth, and captured no transcripts — so there was no reliable, AI-readable history of interactions with any given customer.
+Customer meeting records were created **by hand** by the EA, who monitored four separate calendars and manually built a Notion page per meeting. It was time-consuming, easy to miss meetings, dependent entirely on one person's bandwidth, and captured no transcripts — so there was no reliable, AI-readable history of interactions with any given customer.
 
 ## What I built / how it works
 - **Calendar monitoring** across all four team members' Google Calendars, checked automatically at least once a day (OAuth app via Google Cloud Console).
