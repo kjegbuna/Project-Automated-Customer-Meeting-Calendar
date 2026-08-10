@@ -1,4 +1,4 @@
-# Customer Meeting Calendar Automation
+# Automated Customer Meeting Calendar
 
 An automated pipeline that detects customer meetings across the team's Google Calendars, logs each one to a Notion database with full metadata, and attaches the meeting's recording, transcript, and AI summary — turning a manual, person-dependent process into a hands-off, always-current record of every customer interaction.
 
