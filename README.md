@@ -4,7 +4,7 @@ An automated pipeline that detects customer meetings across the team's Google Ca
 
 > Built during my summer 2026 internship at **Chezie**. Public repo is scrubbed of credentials and real customer data.
 
-🔗 **Live demo:** (https://kjegbuna.github.io/Project-Automated-Customer-Meeting-Calendar/)
+🔗 **Live demo:** https://kjegbuna.github.io/Project-Automated-Customer-Meeting-Calendar/
 
 ---
 
